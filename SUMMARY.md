@@ -1,4 +1,4 @@
 # Table of contents
 
-* [documentation](README.md)
+* [&lt;- back to nlp.studio](README.md)
 
