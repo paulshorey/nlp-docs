@@ -44,11 +44,11 @@ For now, the focus is domain names. Visit our [nlp.domains](https://nlp.domains)
 
 Our products were just published in July 2020. If you find anything broken, [please let us know](funny-suggestions.md). If you would like a feature or have any advice for us at all, please [contact us](funny-suggestions.md).
 
-This venture is long-term. We'll continue to support it as long as we have customers. If you subscribe to the API, it will not randomly stop working. We'll keep testing, and running the servers as long as somebody is using them. We're not selling vaporware or making promises we can't keep. If we say we're the best, we mean right now, not sometime in the future after some investment. 
+This venture is long-term. We'll continue to support it as long as we have customers. It may take years to take off. That's ok. This is a labor of love.
 
-Please try our APIs, and compare the input/output to other providers. Ours will be the best. 
+Please try our APIs, and compare the input/output to other providers. You will not be disappointed. 
 
-Thank you for your support and feedback!
+If our APIs are not as good as what you're using, [please let us know](funny-suggestions.md). Thank you for your support and feedback!
 
 
 
