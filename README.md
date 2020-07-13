@@ -1,8 +1,8 @@
 # What we do
 
-We make the most accurate and reliable linguistics tools:
+**We make the most accurate and reliable linguistics tools:**
 
-* [https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
+* \*\*\*\*[https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
   **Most accurate synonyms,** parts of speech, word info, and sentiment analysis.
 
   **Best domain name suggestions** - most relevant, short, memorable, and available.  
@@ -11,7 +11,7 @@ We make the most accurate and reliable linguistics tools:
 * [https://**nlp.domains**](https://nlp.domains) **** Find an available domain name for your business 
 * [https://**nlpthesaurus.com**](https://nlpthesaurus.com) **** Thesaurus, word information, word sentiment
 
-Subscribe for updates about new products and features:
+**Subscribe for updates about new products and features:**
 
 insert newsletter signup here
 
