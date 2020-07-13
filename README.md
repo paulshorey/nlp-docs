@@ -7,10 +7,10 @@ This brand makes the most accurate and reliable linguistics tools:
 
   Best domain name suggestions - most relevant, short, memorable, and available.
 
-Try our apps, which use these APIs: 
+Try our apps, which showcase our own APIs and data: 
 
-* [https://nlp.domains](https://nlp.domains)  Domain suggestions, domain availability, sentiment analysis
-* [https://nlpthesaurus.com](https://nlpthesaurus.com)  Thesaurus, word information
+* [https://nlp.domains](https://nlp.domains)  Domain suggestions, domain availability
+* [https://nlpthesaurus.com](https://nlpthesaurus.com)  Thesaurus, word information, sentiment analysis
 
 Subscribe for updates about new products and features:
 
