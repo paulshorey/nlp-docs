@@ -1,26 +1,15 @@
 # Table of contents
 
-* [What we do](README.md)
-* [Where to get it](use-our-data-on-your-site.md)
-
-## products and features <a id="products"></a>
-
----
-
-* [Domain Name Suggestions](domain-suggestions.md)
-* [Domain Name Availability](domain-name-availability.md)
-* [Thesaurus + Text Analysis](thesaurus.md)
-
-## documentation
-
-* [Domain Suggestions API](documentation/api-documentation.md)
-* [Domain Availability API](documentation/domain-availability-api.md)
-* [Thesaurus API](documentation/thesaurus-api.md)
-* [Text Analysis APIs](documentation/text-analysis-apis.md)
-
----
-
+* [About](README.md)
+* [Products](use-our-data-on-your-site/README.md)
+  * [Domain Name Suggestions](use-our-data-on-your-site/domain-suggestions.md)
+  * [Domain Name Availability](use-our-data-on-your-site/domain-name-availability.md)
+  * [Thesaurus + Text Analysis](use-our-data-on-your-site/thesaurus.md)
+* [Documentation](documentation-1/README.md)
+  * [Domain Suggestions API](documentation-1/api-documentation.md)
+  * [Domain Availability API](documentation-1/domain-availability-api.md)
+  * [Thesaurus API](documentation-1/thesaurus-api.md)
+  * [Text Analysis APIs](documentation-1/text-analysis-apis.md)
 * [Changelog](domain-industry.md)
-* [Coming soon...](sentiment-analysis.md)
-* [Contact us](funny-suggestions.md)
+* [Contact](funny-suggestions.md)
 

@@ -1,4 +1,4 @@
-# What we do
+# About
 
 We make tools for business. We analyze data and deliver it to your website via our APIs:
 
