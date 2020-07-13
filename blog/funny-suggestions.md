@@ -1,0 +1,2 @@
+# Funny suggestions
+
