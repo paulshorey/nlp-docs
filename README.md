@@ -9,8 +9,8 @@ This brand makes the most accurate and reliable linguistics tools:
 
 Try our apps, which use these APIs: 
 
-* [https://nlp.domains](https://nlp.domains) - domain suggestions, domain availability, sentiment analysis
-* [https://nlpthesaurus.com](https://nlpthesaurus.com) - thesaurus, word information
+* [https://nlp.domains](https://nlp.domains)  Domain suggestions, domain availability, sentiment analysis
+* [https://nlpthesaurus.com](https://nlpthesaurus.com)  Thesaurus, word information
 
 Subscribe for updates about new products and features:
 
