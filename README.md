@@ -45,7 +45,7 @@ Our products were just published in July 2020. If you find anything broken, [ple
 
 This venture is long-term. We'll continue to support it as long as we have customers. It may take years to become successful. That's ok. This is a labor of love.
 
-Please try our APIs, and compare the input/output to other providers. You will not be disappointed. 
+Please try our APIs, and compare to other providers. You will not be disappointed. 
 
 If our APIs are not as good as what you're using, [please let us know](funny-suggestions.md). Thank you for your support and feedback!
 
