@@ -24,7 +24,7 @@ has been making websites and apps for 12 years. JavaScript, UI design, front-end
 **Samira Ali**   
 has a Bachelors in Sociology. She has worked at several non-profits, and has started many of her own initiatives. She has worked in tech and medicine as well. She speaks several languages, and has been a part of a very diverse range of cultures. She is now starting medical school, to be a doctor, but will still be around to give guidance and direction in the areas of language, user perception, and design.
 
-We're both inspired by our upbringing and by the crazy adventure that is life. We're thankful for where we are now, and are moving toward securing a better future through hard work and the pursuit of excellence. Looking forward to meeting you. [Let's get in touch](funny-suggestions.md) \(virtually\).
+We're both inspired by our upbringing and by the crazy adventure that is life. Paul immigrated from Russia, and Samira is a refugee from Africa. We're thankful for where we are now, and are moving toward securing a better future through hard work and the pursuit of excellence. Looking forward to meeting you. [Let's get in touch](funny-suggestions.md) \(virtually\).
 
 ## Why NLP?
 
