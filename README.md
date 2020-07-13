@@ -34,7 +34,7 @@ The reason this happened, is because in 2019, Paul set out to make a domain name
 
 It was a great learning experience, and now we have a database of 500,000 words, about 200,000 of which have good synonyms. As a reference, a native English speaker knows from 20,000 to 35,000 words, including slang. Many of the others are medical terms. We're currently brainstorming how this can be used in medical applications - perhaps to refine search results in sites like WebMD. 
 
-For now, our focus is domain names. Visit our [nlp.domains](https://nlp.domains) web app or try [the API](https://rapidapi.com). Our program generates hundreds of name phrases, and pairs them with the most relevant TLDs \(extensions\). There are currently 1000+ new TLD extensions which people don't even know exist, so this service is very useful. We then check for the status \(availability\) of each domain name. No more typing in one domain name at a time, and hoping that it's available. Our app gives you hundreds of similar names. Some of them turn out to be available and pretty good!
+For now, our focus is domain names. Visit [nlp.domains](https://nlp.domains) or try [the API](https://rapidapi.com). Our program generates hundreds of name phrases, and pairs them with the most relevant TLDs \(extensions\). There are currently 1000+ new TLD extensions which people don't even know exist, so this service is very useful. We then check for the status \(availability\) of each domain name. No more typing in one domain name at a time, and hoping that it's available. Our app gives you hundreds of similar names. Some of them turn out to be available and pretty good!
 
 ## This is all a work in progress
 
