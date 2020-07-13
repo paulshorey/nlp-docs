@@ -16,10 +16,9 @@
 * [Domain Suggestions API](documentation/api-documentation.md)
 * [Domain Availability API](documentation/domain-availability-api.md)
 
-## blog
+---
 
-* [Domain industry](blog/domain-industry.md)
-* [Sentiment analysis](blog/sentiment-analysis.md)
-* [Funny suggestions](blog/funny-suggestions.md)
-* [Available domains](blog/available-domains.md)
+* [Changelog](domain-industry.md)
+* [Coming soon...](sentiment-analysis.md)
+* [Contact us](funny-suggestions.md)
 
