@@ -3,14 +3,14 @@
 This brand makes the most accurate and reliable linguistics tools:
 
 * [https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
-  Most accurate thesaurus and word information, with sentiment analysis built in.
+  **Most accurate thesaurus** and word information, plus **sentiment analysis**
 
-  Best domain name suggestions - most relevant, short, memorable, and available.
+  **Best domain name suggestions** - most relevant, short, memorable, and available.
 
 Try our apps, which showcase our own APIs and data: 
 
-* [https://nlp.domains](https://nlp.domains)  Domain suggestions, domain availability
-* [https://nlpthesaurus.com](https://nlpthesaurus.com)  Thesaurus, word information, sentiment analysis
+* [https://**nlp.domains**](https://nlp.domains) **** Domain suggestions, domain availability
+* [https://**nlpthesaurus.com**](https://nlpthesaurus.com) **** Thesaurus, word information, sentiment analysis
 
 Subscribe for updates about new products and features:
 
@@ -28,7 +28,9 @@ has been making websites and apps for 12 years. JavaScript, UI design, front-end
 **Samira Ali**   
 has worked at several non-profits, and has started many of her own initiatives. She has worked in tech and medicine as well. She speaks several languages, and has been a part of a very diverse range of cultures. She is now starting medical school, to be a doctor, but will still be around to give guidance and direction in the areas of language, user perception, and design.
 
-We're both inspired by our upbringing and the crazy adventure that is life. We're thankful for where we are now, and are moving toward securing a better future through hard work and the pursuit of excellence. Looking forward to meeting you. ****[**Lets get in touch**](funny-suggestions.md) \(virtually\).
+We're both inspired by our upbringing and the crazy adventure that is life. We're thankful for where we are now, and are moving toward securing a better future through hard work and the pursuit of excellence. Looking forward to meeting you. 
+
+[Contact us](funny-suggestions.md)
 
 ## Why NLP?
 
