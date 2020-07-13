@@ -1,6 +1,6 @@
-# What we do
+# What is it? Who are we?
 
-**We make the most accurate and reliable linguistics tools:**
+We are a linguistics software agency. We make tools for business - tools you can use to take your user experience or data capabilities to new heights. We also publish websites and apps.
 
 * \*\*\*\*[https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
   **Most accurate synonyms,** parts of speech, word info, and sentiment analysis.
@@ -11,11 +11,11 @@
 * [https://**nlp.domains**](https://nlp.domains) **** Find an available domain name for your business 
 * [https://**nlpthesaurus.com**](https://nlpthesaurus.com) **** Thesaurus, word information, word sentiment
 
-**Subscribe for updates about new products and features:**
+## **Subscribe for updates about new products and features**
 
 insert newsletter signup here
 
-## Who we are
+## Who are we?
 
 A husband and wife team. 👨🏼‍💻👩🏽‍💼Combining our talents, we were able to make the world's best English language thesaurus. Paul built some advanced custom admin tools. Samira used them to comb through and edit thousands of words. 
 
