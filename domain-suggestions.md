@@ -1,2 +1,2 @@
-# Domain Suggestions
+# Domain Name Research
 
