@@ -3,9 +3,9 @@
 We make tools for business. We analyze data and deliver it to you via our APIs:
 
 * \*\*\*\*[https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
-  Most accurate synonyms, ****parts of speech, word info, and sentiment analysis.
+  **Most accurate synonyms**, ****parts of speech, word info, and sentiment analysis.
 
-  Best domain name suggestions - most relevant, short, memorable, and available.
+  **Best domain name suggestions** - most relevant, short, memorable, and available.
 
 We also make websites and software: 
 
