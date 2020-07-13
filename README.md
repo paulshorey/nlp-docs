@@ -7,9 +7,16 @@ description: >-
 
 # About
 
-## Available domain name suggestions + search.
+If we can't make the best product, we don't waste our time. We don't waste your time.
 
-This one is different! Our program honestly comes up with useful suggestions, which are short, relevant, and available. Try the app
+1. [Domain suggestions - short, memorable, relevant, and available!](domain-suggestions.md)
+2. [Most accurate thesaurus, and word info database, with sentiment analysis built in.](thesaurus-+-sentiment-analysis.md)
+
+Please subscribe for updates about new products and features:
+
+insert newsletter signup here
+
+## About us
 
 ![](.gitbook/assets/rapi-nlpdomains.png)
 
