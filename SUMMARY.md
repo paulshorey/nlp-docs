@@ -9,8 +9,7 @@
 
 * [Domain Name Suggestions](domain-suggestions.md)
 * [Domain Name Availability](domain-name-availability.md)
-* [Thesaurus + Sentiment Analysis](thesaurus.md)
-* [Text Analysis](text-analysis.md)
+* [Thesaurus + Text Analysis](thesaurus.md)
 
 ## documentation
 

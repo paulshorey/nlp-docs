@@ -1,2 +1,2 @@
-# Thesaurus + Sentiment Analysis
+# Thesaurus + Text Analysis
 
