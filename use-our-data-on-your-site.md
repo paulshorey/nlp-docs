@@ -1,4 +1,4 @@
-# Where to get it...
+# Where to get it
 
 RapidAPI.com is a marketplace for APIs. 
 
