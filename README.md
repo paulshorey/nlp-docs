@@ -22,9 +22,11 @@ A husband and wife team. 👨🏼‍💻👩🏽‍💼Combining our talents, we
 
 ![We met in Utah! Love love love those mountains and sunsets!](.gitbook/assets/dsc_0354-500-png.jpg)
 
-Paul has been making websites and apps for 12 years. JavaScript, UI design, front-end, back-end, systems and databases. Paul is from a fine-art and design background, but has recently embraced software development as an art form. It's creative, and very powerful. When not coding, he enjoys building light fixtures, growing microgreens, and doing adventure sports.
+Paul Shorey \([paulshorey.com](https://paulshorey.com)\)   
+has been making websites and apps for 12 years. JavaScript, UI design, front-end, back-end, systems and databases. Paul is from a fine-art and design background, but has recently embraced software development as an art form. It's creative, and very powerful. When not coding, he enjoys building light fixtures, growing microgreens, and doing adventure sports.
 
-Samira has worked at several non-profits, and has started many of her own initiatives. She has worked in tech and medicine as well. She speaks several languages, and has been a part of a very diverse range of cultures. She is now starting medical school, to be a doctor, but will still be around to give guidance and direction in the areas of language, user perception, and design.
+Samira Ali   
+has worked at several non-profits, and has started many of her own initiatives. She has worked in tech and medicine as well. She speaks several languages, and has been a part of a very diverse range of cultures. She is now starting medical school, to be a doctor, but will still be around to give guidance and direction in the areas of language, user perception, and design.
 
 We're both inspired by our upbringing and the crazy adventure that is life. We're thankful for where we are now, and are moving toward securing a better future through hard work and the pursuit of excellence. Looking forward to meeting you. [Lets get in touch](funny-suggestions.md) \(virtually\).
 
