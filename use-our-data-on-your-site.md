@@ -1,4 +1,4 @@
-# Integrate to your site
+# Where to get it
 
 RapidAPI.com is a marketplace for APIs. 
 
