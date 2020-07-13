@@ -44,7 +44,7 @@ For now, the focus is domain names. Visit our [nlp.domains](https://nlp.domains)
 
 Our products were just published in July 2020. If you find anything broken, [please let us know](funny-suggestions.md). If you would like a feature or have any advice for us at all, please [contact us](funny-suggestions.md).
 
-This venture is long-term. We'll continue to support it as long as we have customers. It may take years to take off. That's ok. This is a labor of love.
+This venture is long-term. We'll continue to support it as long as we have customers. It may take years to become successful. That's ok. This is a labor of love.
 
 Please try our APIs, and compare the input/output to other providers. You will not be disappointed. 
 
