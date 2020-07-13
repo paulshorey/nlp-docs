@@ -1,6 +1,13 @@
+---
+description: >-
+  This brand makes the most accurate and reliable linguistics tools:
+  <https://rapidapi.com/user/nlp-studio>. We also make websites and apps:
+  <https://nlp.domains> <https://nlpthesaurus.com>
+---
+
 # What we do
 
-This brand makes the most accurate and reliable linguistics tools:
+This brand makes the most accurate and reliable linguistics tools.
 
 * [https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
   Most accurate thesaurus and word information, with sentiment analysis built in.
