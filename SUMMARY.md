@@ -1,4 +1,5 @@
 # Table of contents
 
-* [About us](README.md)
+* [About Us](README.md)
+* [API Documentation](api-documentation.md)
 
