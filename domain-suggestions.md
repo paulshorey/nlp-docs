@@ -1,2 +1,2 @@
-# Domain Name Research
+# Domain Names
 
