@@ -18,7 +18,7 @@ insert newsletter signup here
 
 ## Who are we?
 
-A husband and wife team. 
+A husband and wife team. 👨🏼‍💻👩🏽‍💼
 
 {% tabs %}
 {% tab title="Paul Shorey" %}
