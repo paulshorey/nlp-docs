@@ -1,6 +1,6 @@
 # What we do
 
-We make tools for business. We analyze data and deliver it to you via our APIs:
+We make tools for business. We analyze data and deliver it to your website via our APIs:
 
 * \*\*\*\*[https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
   **Most accurate synonyms**, ****parts of speech, word info, and sentiment analysis.
