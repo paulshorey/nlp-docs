@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Our Apps](README.md)
+* [About](README.md)
 
 ## products and features <a id="products"></a>
 
