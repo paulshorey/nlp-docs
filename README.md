@@ -1,8 +1,8 @@
 ---
 description: >-
   This brand makes the most reliable text analysis APIs:
-  <https://rapidapi.com/user/nlp-studio> We also make apps! Find an available
-  domain name for your business: <https://nlp.domains>
+  <https://rapidapi.com/user/nlp-studio>. Try our app, find an available domain
+  name for your business: <https://nlp.domains>
 ---
 
 # About
