@@ -5,7 +5,8 @@ We make the most accurate and reliable linguistics tools:
 * [https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
   **Most accurate synonyms,** parts of speech, word info, and sentiment analysis.
 
-  **Best domain name suggestions** - most relevant, short, memorable, and available.
+  **Best domain name suggestions** - most relevant, short, memorable, and available.  
+  Domain name availability, supporting 1000s of TLDs.
 
 Try our apps, which showcase our own APIs and data: 
 
