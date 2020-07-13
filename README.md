@@ -20,7 +20,7 @@ insert newsletter signup here
 
 A husband and wife team. 👨🏼‍💻👩🏽‍💼Combining our talents, we were able to make the world's best English language thesaurus. Paul built some advanced custom admin tools. Samira used them to comb through and edit thousands of words. 
 
-![We met in Utah! Love love love those mountains and sunsets!](.gitbook/assets/dsc_0354-500-png.jpg)
+![We met in Utah! Love those mountains and sunsets!](.gitbook/assets/dsc_0354-500-png.jpg)
 
 **Paul Shorey** \([paulshorey.com](https://paulshorey.com)\)   
 has been making websites and apps for 12 years. JavaScript, UI design, front-end, back-end, systems and databases. Paul is from a fine-art and design background, but has recently embraced software development as an art form. It's creative, and very powerful. When not coding, he enjoys building light fixtures, growing microgreens, and doing adventure sports.
