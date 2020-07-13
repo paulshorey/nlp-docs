@@ -1,8 +1,8 @@
-# &lt;- back to nlp.studio
+# About
 
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}
-
+adsfsdffdffdfdfsf
 {% endapi-method-summary %}
 
 {% api-method-description %}
