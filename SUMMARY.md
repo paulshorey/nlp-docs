@@ -1,7 +1,7 @@
 # Table of contents
 
 * [What we do](README.md)
-* [Use our data on your site](use-our-data-on-your-site.md)
+* [Integrate to your site](use-our-data-on-your-site.md)
 
 ## products and features <a id="products"></a>
 
