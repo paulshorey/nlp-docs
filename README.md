@@ -1,4 +1,4 @@
-# About
+# About us
 
 {% api-method method="get" host="" path="" %}
 {% api-method-summary %}

@@ -1,4 +1,4 @@
 # Table of contents
 
-* [About](README.md)
+* [About us](README.md)
 
