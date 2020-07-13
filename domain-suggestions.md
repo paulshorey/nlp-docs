@@ -1,2 +1,2 @@
-# Domain Names
+# Domain Name Search
 

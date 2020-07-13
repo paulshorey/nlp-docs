@@ -7,7 +7,7 @@
 ---
 
 * [Thesaurus + Sentiment Analysis](thesaurus-+-sentiment-analysis.md)
-* [Domain Names](domain-suggestions.md)
+* [Domain Name Search](domain-suggestions.md)
 
 ## documentation
 
