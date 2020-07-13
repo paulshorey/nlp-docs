@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is it? Who are we?](README.md)
+* [What we do](README.md)
 * [Where to get it...](use-our-data-on-your-site.md)
 
 ## products and features <a id="products"></a>
