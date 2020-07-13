@@ -6,7 +6,7 @@ Domain Suggestions
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+Returns lists of domain suggestions. For example, for user entry \`{str:"goodstuff",tld:"info"}\` you may get suggestions \`{"domains": {"list1":\[\],"list2":\[\]}}\`. Also returns work-in-progress phrases used to come up with domain suggestions.
 {% endapi-method-description %}
 
 {% api-method-spec %}
