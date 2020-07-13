@@ -1,6 +1,6 @@
 ---
 description: >-
-  We make the most accurate and reliable text analysis tools:
+  This brand makes the most accurate and reliable text analysis tools:
   <https://rapidapi.com/user/nlp-studio>. We also make websites and apps:
   <https://nlp.domains> <https://nlpthesaurus.com>
 ---
