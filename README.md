@@ -10,7 +10,7 @@ description: >-
 If our product is not the best, we will not publish it. If you find a better product, please tell us.
 
 1. [Domain suggestions - most relevant, short, pleasant, and actually available!](domain-suggestions.md)
-2. [Most accurate thesaurus, and word info database, with sentiment analysis built in.](thesaurus-+-sentiment-analysis.md)
+2. [Most accurate thesaurus, and word info database, with sentiment analysis built in.](thesaurus.md)
 
 Subscribe for updates about new products and features:
 
