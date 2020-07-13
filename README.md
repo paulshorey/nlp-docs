@@ -14,7 +14,7 @@ We also make websites and software:
 
 ## Who we are
 
-A husband and wife team. 👨🏼‍💻👩🏽‍💼Combining our talents, we were able to make the world's best English language thesaurus. Paul built some advanced custom admin tools. Samira used them to comb through and edit thousands of words. 
+A husband and wife team, based in Kansas City, MO \(USA\). 👨🏼‍💻👩🏽‍💼Combining our talents, we were able to make the world's best English language thesaurus. Paul built some advanced custom admin tools. Samira used them to comb through and edit thousands of words. 
 
 ![Paul Shorey + Samira Ali. We met in Utah. Love those mountains!](.gitbook/assets/dsc_0354-500-png.jpg)
 
