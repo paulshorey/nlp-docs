@@ -1,6 +1,6 @@
 # What we do
 
-This brand makes the most accurate and reliable linguistics tools:
+We make the most accurate and reliable linguistics tools:
 
 * [https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
   **Most accurate thesaurus** and word information, plus **sentiment analysis**
