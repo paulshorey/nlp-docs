@@ -16,21 +16,9 @@ Subscribe for updates about new products and features:
 
 insert newsletter signup here
 
-## Who are we?
+## Who we are
 
-A husband and wife team. 👨🏼‍💻👩🏽‍💼
+A husband and wife team. 👨🏼‍💻👩🏽‍💼Together, we were able to make the world's best English language thesaurus. Paul did the technical stuff. Samira did most of the editing. 
 
-{% tabs %}
-{% tab title="Paul Shorey" %}
-dafsds
-
-![](.gitbook/assets/rapi-nlpdomains.png)
-{% endtab %}
-
-{% tab title="Samira Ali" %}
-
-{% endtab %}
-{% endtabs %}
-
-Together, we were able to make the world's best English language thesaurus. Paul did the technical stuff. Samira did most of the editing. 
+Paul has 
 
