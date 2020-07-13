@@ -1,14 +1,16 @@
 # What is it? Who are we?
 
-We are a linguistics software agency. We make tools for business - tools you can use to take your user experience or data capabilities to new heights. We also publish websites and apps.
+We are a linguistics software agency. We make tools for business - tools you can use to supplement your product, or increase conversion through better UI:
 
 * \*\*\*\*[https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
-  **Most accurate synonyms,** parts of speech, word info, and sentiment analysis.
+  Most accurate synonyms, ****parts of speech, word info, and sentiment analysis.
 
-  **Best domain name suggestions** - most relevant, short, memorable, and available.  
-  Domain name availability, supporting 1000s of TLDs.  
+  Best domain name suggestions - most relevant, short, memorable, and available.
 
-* [https://**nlp.domains**](https://nlp.domains) **** Find an available domain name for your business 
+We also publish websites and apps:  
+
+
+* [https://**nlp.domains**](https://nlp.domains) **** Find an available domain name for your business
 * [https://**nlpthesaurus.com**](https://nlpthesaurus.com) **** Thesaurus, word information, word sentiment
 
 ## **Subscribe for updates about new products and features**
