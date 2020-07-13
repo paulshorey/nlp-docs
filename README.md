@@ -9,7 +9,7 @@ We make tools for business. We analyze data and deliver it to your website via o
 
 We also make websites and apps: 
 
-* [https://**nlp.domains**](https://nlp.domains) **** Find an available domain name for your business 
+* [https://**nlp.domains**](https://nlp.domains) **** Find an available domain name for your business
 * [https://**nlpthesaurus.com**](https://nlpthesaurus.com) **** Thesaurus, word information, word sentiment
 
 ## Who we are
