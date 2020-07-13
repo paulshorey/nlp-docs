@@ -2,7 +2,7 @@
 
 * [Our Apps](README.md)
 
-## our products <a id="products"></a>
+## products and features <a id="products"></a>
 
 ---
 
