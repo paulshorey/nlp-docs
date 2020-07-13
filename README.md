@@ -47,7 +47,7 @@ This venture is long-term. We'll continue to support it as long as we have custo
 
 Please try our APIs, and compare to other providers. You will not be disappointed. 
 
-If our APIs are not as good as what you're using, [please let us know](funny-suggestions.md). Thank you for your support and feedback!
+If our APIs are not as good as what you're currently using, [please let us know](funny-suggestions.md). Thank you for your support and feedback!
 
 
 
