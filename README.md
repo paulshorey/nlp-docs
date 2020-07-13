@@ -18,7 +18,7 @@ insert newsletter signup here
 
 ## Who we are
 
-A husband and wife team. 👨🏼‍💻👩🏽‍💼Together, we were able to make the world's best English language thesaurus. Paul did the technical stuff. Samira did most of the editing. 
+A husband and wife team. 👨🏼‍💻👩🏽‍💼Together, we were able to make the world's best English language thesaurus. Paul made advanced software tools. Samira used it to improve thousands of words. 
 
 ![We met in Utah! Love love love those mountains and sunsets!](.gitbook/assets/dsc_0354-500-png.jpg)
 
