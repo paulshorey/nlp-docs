@@ -7,9 +7,9 @@ description: >-
 
 # About
 
-### Domain Suggestions
+## Find an available domain name for your business.
 
-Find an available domain name for your business. This one is different. Our program honestly comes up with useful suggestions, which are short, relevant, and available.
+This one is different! Our program honestly comes up with useful suggestions, which are short, relevant, and available.
 
 ![](.gitbook/assets/rapi-nlpdomains.png)
 
