@@ -3,7 +3,7 @@
 We make the most accurate and reliable linguistics tools:
 
 * [https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
-  **Most accurate and dependable thesaurus** and word info, plus **sentiment analysis**
+  **Most accurate synonyms,** parts of speech, word info, and sentiment analysis.
 
   **Best domain name suggestions** - most relevant, short, memorable, and available.
 
