@@ -16,23 +16,21 @@ Subscribe for updates about new products and features:
 
 insert newsletter signup here
 
-## Why we do it
+## Who are we?
 
-![](.gitbook/assets/rapi-nlpdomains.png)
+A husband and wife team. 
 
 {% tabs %}
-{% tab title="Domain Suggestions" %}
+{% tab title="Paul Shorey" %}
+dafsds
 
+![](.gitbook/assets/rapi-nlpdomains.png)
 {% endtab %}
 
-{% tab title="Thesaurus" %}
-
-{% endtab %}
-
-{% tab title="Admin Tools" %}
+{% tab title="Samira Ali" %}
 
 {% endtab %}
 {% endtabs %}
 
-
+Together, we were able to make the world's best English language thesaurus. Paul did the technical stuff. Samira did most of the editing. 
 
