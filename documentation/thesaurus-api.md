@@ -1,2 +1,2 @@
-# Thesaurus API
+# Synonyms API
 
