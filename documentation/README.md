@@ -8,8 +8,9 @@
 * [Domain Name Availability](domain-name-apis.md#domain-availability)
   * check the availability of 2000+ supported TLDs
   * check the expiration date for 1000+ supported TLDs
-* [Thesaurus](thesaurus-apis.md)
+* [Synonyms](thesaurus-apis.md#synonyms)
   * synonyms grouped by part of speech, or as a flat list by relevance
+* [Word Info](thesaurus-apis.md#word-info)
   * root, plural, singular, proper, conjunction, acronyms, abbreviations, and sentiment
 
 **POST data to our server:**
