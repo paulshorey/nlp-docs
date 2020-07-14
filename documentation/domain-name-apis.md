@@ -74,11 +74,11 @@ Domain Availability
 
 {% api-method method="get" host="" path="/mvp/supported\_tlds" %}
 {% api-method-summary %}
-List Supported TLDs
+List Supported TLD
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+No parameters. Returns an array of TLDs, without the leading dot. See response:
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -87,7 +87,7 @@ List Supported TLDs
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-Returns an array of TLDs, without the leading dot.
+
 {% endapi-method-response-example-description %}
 
 ```
@@ -97,6 +97,4 @@ Returns an array of TLDs, without the leading dot.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
