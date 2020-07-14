@@ -40,9 +40,9 @@ Top-level domain name. Ex: "com" in "google.com". All TLD extensions are allowed
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://rapidapi.com" path="/mvp/domain\_suggestions" %}
+{% api-method method="get" host="https://rapidapi.com" path="/mvp/domain\_status" %}
 {% api-method-summary %}
-Domain Availability
+Domain Status
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -72,22 +72,35 @@ Domain Availability
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="" path="/mvp/supported\_tlds" %}
+{% api-method method="get" host="" path="/mvp/domain\_status\_supported\_tlds" %}
 {% api-method-summary %}
-List of Supported TLD
+Domain Status - Supported TLDs
 {% endapi-method-summary %}
 
 {% api-method-description %}
-No parameters. Returns an array of TLDs, without the leading dot. See response:
+View the TLDs that we are currently able to check availability for. Returns 3 lists:  
+1. we can tell that the domain is available or registered, but NOT its expiration date  
+2. we can get the expiration date of the domain, AND its availability  
+3. we are aware of this domain, but are not able to check its status
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
+{% api-method-query-parameters %}
+{% api-method-parameter name="site\_id" type="string" required=true %}
+Optional. Advanced. When you configure your options \(like the TLDs you support and promote\), you get a site\_id and site\_secret token. Pass these variables here, to see which TLDs your site currently supports and promotes.
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="site\_secret" type="string" required=true %}
+Optional. Your "site\_id" variable is public. It can be used from your client app, and seen by the public. However, this "site\_secret" variable is private. It is used by you, from the back-end, to configure your account options, including supported TLDs. This endpoint only returns a list of your supported TLDs, but you probably don't want anyone to access your business logic.
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
+{% endapi-method-request %}
 
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Returns an array of TLDs, without the leading dot.
 {% endapi-method-response-example-description %}
 
 ```
@@ -97,4 +110,38 @@ No parameters. Returns an array of TLDs, without the leading dot. See response:
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
+
+{% api-method method="get" host="" path="/mvp/domain\_whois" %}
+{% api-method-summary %}
+WhoIS
+{% endapi-method-summary %}
+
+{% api-method-description %}
+Similar to /domain\_status, but instead of returning a number, this returns the entire WHOIS record, if available.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+
 
