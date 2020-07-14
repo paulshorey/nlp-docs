@@ -30,7 +30,7 @@ We're both inspired by our upbringing and by the crazy adventure that is life. P
 
 It stands for Natural Language Processing \(or Neuro Linguistic Programming\). A branch of AI. Paul has worked at an AI company for the last 2 years before starting this. This venture, however, is not as ambitious as many AI companies. We're not trying to change the world or create sentient software.
 
-The reason this happened, is because in 2019, Paul set out to make a domain name suggestions app. Unfortunately, he was disappointed with the quality of publicly available APIs and datasets. Thesaurus sources were not reliable, or did not have an API. So, he set out to make his own. He got carried away, and accidentally made the best English thesaurus in the world. 
+The reason this happened, is because in 2019, Paul set out to make a domain name suggestions app. Unfortunately, he was disappointed with the quality of publicly available APIs and datasets. Thesaurus resources were not reliable, or did not have an API. So, he set out to make his own. He got carried away, and accidentally made the best English thesaurus in the world. 
 
 It was a great learning experience, and now we have a database of 500,000 words, about 200,000 of which have good synonyms. As a reference, a native English speaker knows from 20,000 to 35,000 words, including slang. Many of the others are medical terms. We're currently brainstorming how this can be used in medical applications - perhaps to refine search results in sites like WebMD. 
 
