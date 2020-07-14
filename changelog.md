@@ -1,16 +1,14 @@
 # Changelog
 
-### Current Release:
+### Current Version: "mvp"
 
-* https://api.nlp.studio/**mvp**/... \(on RapidAPI\)
-  * This "minimal viable product" API may change, and its changes will be posted here.
-  * All changes will be backwards-compatible.
+It stands for "minimum viable product". It refers to our API specs.
 
-### Upcoming Releases:
+This is the first version. So, there are no changes to report.
+
+For future versions, this entire site will be archived, and replaced by new updated content. A dropdown selector will appear in the top left. You will be able to use it to go back to the "previous" versions, to see documentation from the past.
 
 
 
-### Future Plans:
 
-We need your feedback. What features would you like to see? What is not working so well for you?
 
