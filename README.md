@@ -24,7 +24,7 @@ has been making websites and apps for 12 years. JavaScript, UI design, front-end
 **Samira Ali**   
 has a Bachelors in Sociology. She has worked at several non-profits, and has started many of her own initiatives. She has worked in tech and medicine as well. She speaks several languages, and has been a part of a very diverse range of cultures. She is now starting medical school, to be a doctor, but will still be around to give guidance and direction in the areas of language, user perception, and design.
 
-We're both inspired by our upbringing and by the crazy adventure that is life. Paul immigrated from Russia, and Samira is a refugee from Africa. We're thankful for where we are now, and are moving toward securing a prosperous future through hard work and the pursuit of excellence. Looking forward to meeting you. [Let's get in touch](funny-suggestions.md) \(virtually\).
+We're both inspired by our upbringing and by the crazy adventure that is life. Paul immigrated from Russia, and Samira is a refugee from Africa. We're thankful for where we are now, and are moving toward securing a prosperous future through hard work and the pursuit of excellence. Looking forward to meeting you. [Let's get in touch]() \(virtually\).
 
 ## Why NLP?
 
@@ -38,13 +38,13 @@ For now, our focus is domain names. Visit [nlp.domains](https://nlp.domains) or 
 
 ## This is all a work in progress
 
-Our products were just published in July 2020. If you find anything broken, [please let us know](funny-suggestions.md). If you would like a feature or have any advice for us at all, please [contact us](funny-suggestions.md).
+Our products were just published in July 2020. If you find anything broken, [please let us know](). If you would like a feature or have any advice for us at all, please [contact us]().
 
 This venture is long-term. We'll continue to support it as long as we have customers. It may take years to become successful. That's ok. This is a labor of love.
 
 Please try our APIs, and compare to other providers. You will not be disappointed. 
 
-If our APIs are not as good as what you're currently using, [please let us know](funny-suggestions.md). Thank you for your support and feedback!
+If our APIs are not as good as what you're currently using, [please let us know](). Thank you for your support and feedback!
 
 
 
