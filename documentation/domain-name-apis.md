@@ -72,3 +72,31 @@ Domain Availability
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% api-method method="get" host="" path="/mvp/supported\_tlds" %}
+{% api-method-summary %}
+List Supported TLDs
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+Returns an array of TLDs, without the leading dot.
+{% endapi-method-response-example-description %}
+
+```
+{ data: ["com", "co.uk", "企业"], ... }
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+
+
