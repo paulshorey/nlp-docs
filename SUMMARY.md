@@ -10,7 +10,6 @@
   * [Domain Availability API](documentation/domain-availability-api.md)
   * [Synonyms API](documentation/thesaurus-api.md)
   * [Word Info API](documentation/word-info-api.md)
-  * [Sentiment API](documentation/sentiment-api.md)
 * [Changelog](changelog.md)
 * [Contact](contact-us.md)
 
