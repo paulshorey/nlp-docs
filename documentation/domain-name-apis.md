@@ -1,3 +1,7 @@
+---
+description: hostname =
+---
+
 # Domain Name APIs
 
 {% api-method method="get" host="https://{hostname}" path="/mvp/domain\_suggestions" %}
