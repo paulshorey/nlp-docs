@@ -6,10 +6,9 @@
   * [Domain Name Availability](use-our-data-on-your-site/domain-name-availability.md)
   * [Thesaurus + Text Analysis](use-our-data-on-your-site/thesaurus.md)
 * [Documentation](documentation/README.md)
-  * [Domain Suggestions API](documentation/api-documentation.md)
-  * [Domain Availability API](documentation/domain-availability-api.md)
-  * [Synonyms API](documentation/thesaurus-api.md)
-  * [Word Info API](documentation/word-info-api.md)
+  * [Domain Name APIs](documentation/domain-name-apis.md)
+  * [Thesaurus APIs](documentation/thesaurus-apis.md)
+  * [Account APIs](documentation/account-apis.md)
 * [Changelog](changelog.md)
 * [Contact](contact-us.md)
 

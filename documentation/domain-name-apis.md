@@ -1,4 +1,4 @@
-# Domain Suggestions API
+# Domain Name APIs
 
 {% api-method method="get" host="https://rapidapi.com" path="/mvp/domain\_suggestions" %}
 {% api-method-summary %}
