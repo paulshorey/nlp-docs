@@ -42,7 +42,7 @@ Top-level domain name. Ex: "com" in "google.com". All TLD extensions are allowed
 
 {% api-method method="get" host="https://rapidapi.com" path="/mvp/domain\_suggestions" %}
 {% api-method-summary %}
-
+Domain Availability
 {% endapi-method-summary %}
 
 {% api-method-description %}
