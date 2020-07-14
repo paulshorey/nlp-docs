@@ -74,7 +74,7 @@ Domain Availability
 
 {% api-method method="get" host="" path="/mvp/supported\_tlds" %}
 {% api-method-summary %}
-List Supported TLD
+List of Supported TLD
 {% endapi-method-summary %}
 
 {% api-method-description %}
