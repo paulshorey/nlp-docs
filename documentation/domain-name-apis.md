@@ -1,6 +1,6 @@
 # Domain Name APIs
 
-{% api-method method="get" host="" path="/mvp/domain\_suggestions" %}
+{% api-method method="get" host="https://{hostname}" path="/mvp/domain\_suggestions" %}
 {% api-method-summary %}
 Domain Suggestions
 {% endapi-method-summary %}
@@ -40,7 +40,7 @@ Top-level domain name. Ex: "com" in "google.com". All TLD extensions are allowed
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="" path="/mvp/domain\_status" %}
+{% api-method method="get" host="https://{hostname}" path="/mvp/domain\_status" %}
 {% api-method-summary %}
 Domain Status
 {% endapi-method-summary %}
@@ -72,7 +72,7 @@ Domain name to get availability for
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="" path="/mvp/domain\_status\_supported\_tlds" %}
+{% api-method method="get" host="https://{hostname}" path="/mvp/domain\_status\_supported\_tlds" %}
 {% api-method-summary %}
 Domain Status - Supported TLDs
 {% endapi-method-summary %}
@@ -113,7 +113,7 @@ Click response below, to see output format:
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="" path="/mvp/domain\_whois" %}
+{% api-method method="get" host="https://{hostname}" path="/mvp/domain\_whois" %}
 {% api-method-summary %}
 WhoIS
 {% endapi-method-summary %}
