@@ -18,7 +18,7 @@ description: >-
   * synonyms grouped by part of speech, or as a flat list by relevance
   * root, plural, singular, proper, conjunction, acronyms, abbreviations, sentiment
 
-**POST data to our server \(coming soon\):**
+**POST data to our server: \(COMING SOON\)**
 
 * ~~~~[~~Create an account~~](account.md#create-a-new-account)~~~~
   * You'll get back a "site\_id" and a "secret\_token". The "site\_id" is an optional parameter in some of our APIs, to give you access to customized results. For example, you'll be able to specify which TLDs your registrar supports, and which you want to promote \(and how aggressively you'd like to promote them\).
