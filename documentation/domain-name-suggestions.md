@@ -9,7 +9,7 @@ Use this page to test the API. It is fully-featured. You can set all options, an
 
 Available now. Feel free to use in production.
 
-However, before using this at scale \(over 10,000 daily requests\), please let us know 48 hours in advance. Then we may spawn up some extra servers, or add a server closer to your geographic region, to accommodate your business.
+However, before using this at scale \(over 10,000 daily requests\), please let us know how many requests you intend to send, and from what geographic locations. Then we may spawn up some extra servers, or add a server closer to your geographic region, to accommodate your business.
 
 ## Future version: v1
 
