@@ -2,16 +2,15 @@
 
 **GET data about domain names and dictionary words:**
 
-* [Domain Name Suggestions on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
+* [Domain Name Suggestions - on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
   * generates hundreds of alternative phrases and pairs them with relevant TLDs
   * useful, relevant, and available!
-* Domain Name Availability on RapidAPI
+* [Domain Name Availability - on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
   * check the availability of 2000+ supported TLDs
   * check the expiration date for 1000+ supported TLDs
-* [Synonyms](../changelog/thesaurus.md#synonyms)
+* [Synonyms and word info - on RapidAPI](https://rapidapi.com/nlp-studio/api/nlp-thesaurus1)
   * synonyms grouped by part of speech, or as a flat list by relevance
-* [Word Info](../changelog/thesaurus.md#word-info)
-  * root, plural, singular, proper, conjunction, acronyms, abbreviations, and sentiment
+  * root, plural, singular, proper, conjunction, acronyms, abbreviations, sentiment
 
 **POST data to our server \(coming soon\):**
 
