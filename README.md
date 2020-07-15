@@ -1,16 +1,17 @@
 # About
 
-We make tools for business. We analyze data and deliver it to your website via our APIs. Read about, subscribe to, test, and consume our APIs at RapidAPI:
+We make tools for business. We analyze data and deliver it to your website via our APIs. Read about, subscribe to, test, and consume our APIs at:
 
-* \*\*\*\*[https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
-  **Most accurate synonyms**, ****parts of speech, word info, and sentiment analysis.
+* **RapidAPI marketplace:** [https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
+  [**Most accurate synonyms**](https://rapidapi.com/nlp-studio/api/nlp-thesaurus1), ****parts of speech, word info, and sentiment analysis.
 
-  **Best domain name suggestions** - most relevant, short, memorable, and available.
+  \*\*\*\*[**Best domain name suggestions**](https://rapidapi.com/nlp-studio/api/domain-name-search1) - most relevant, short, memorable, and available.
 
-We also make websites and apps: 
+We also make websites and apps:
 
 * [https://**nlp.domains**](https://nlp.domains) **** Find an available domain name for your business
 * [https://**nlpthesaurus.com**](https://nlpthesaurus.com) **** Thesaurus, word information, word sentiment
+* [https://**paulshorey.com**](https://paulshorey.com) See other projects, jobs, and inventions by Paul Shorey
 
 ## Who we are
 
