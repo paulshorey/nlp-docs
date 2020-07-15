@@ -1,4 +1,4 @@
-# Your Account Settings
+# Account
 
 {% api-method method="put" host="" path="/mvp/account" %}
 {% api-method-summary %}
