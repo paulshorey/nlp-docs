@@ -7,6 +7,7 @@
   * [Thesaurus + Text Analysis](use-our-data-on-your-site/thesaurus.md)
 * [API Documentation](documentation/README.md)
   * [Domain Name](documentation/domain-name.md)
+  * [Domain Name Suggestions](documentation/domain-name-suggestions.md)
   * [Thesaurus + Text Analysis](documentation/thesaurus.md)
   * [Your Account](documentation/account.md)
 * [Changelog](changelog.md)
