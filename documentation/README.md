@@ -1,7 +1,7 @@
 ---
 description: >-
-  Better domain tools, empowered by better linguistic tools. Get them both for
-  your site:
+  Better domain tools, empowered by better linguistic tools. Get both for your
+  site:
 ---
 
 # Documentation

@@ -2,9 +2,11 @@
 
 ### Current Version: "mvp"
 
-It stands for "minimum viable product". It is very much a work in progress. We are still adding features, and the API spec is changing - though all changes are intended to be backward compatible - meaning that we're only adding options. Feel free to use the API
+It stands for "minimum viable product". It is very much a work in progress. We are still adding features, and the API spec is changing.
 
-This is the first version. So, there are no changes to report.
+All changes are backward-compatible, meaning if you start using the API, you will only have to update your code if you want the latest features.
+
+No changes to report yet.
 
 ## Future versions
 
