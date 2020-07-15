@@ -1,8 +1,8 @@
 ---
 description: >-
-  This feature is coming soon! Set what TLDs you support and promote. Configure
-  many other options like min/max length of suggestions, toggle word and domain
-  hacks, prefer shorter or more relevant names
+  This feature is coming soon! Set what TLDs you support and promote. Set many
+  other options like min/max length of suggestions, toggle word and domain
+  hacks, prefer shorter or more relevant names...
 ---
 
 # POST to your account
