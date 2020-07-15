@@ -6,9 +6,9 @@
   * [Domain Name Availability](use-our-data-on-your-site/domain-name-availability.md)
   * [Thesaurus + Text Analysis](use-our-data-on-your-site/thesaurus.md)
 * [API Documentation](documentation/README.md)
-  * [Domain Names](documentation/domain-name-apis.md)
-  * [Thesaurus + Text Analysis](documentation/thesaurus-apis.md)
-  * [Your Account](documentation/account-apis.md)
+  * [Domain Name](documentation/domain-name.md)
+  * [Thesaurus + Text Analysis](documentation/thesaurus.md)
+  * [Your Account](documentation/account.md)
 * [Changelog](changelog.md)
 * [Contact](contact-us.md)
 
