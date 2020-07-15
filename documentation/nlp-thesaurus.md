@@ -1,3 +1,9 @@
+---
+description: >-
+  Get info about a word. Any word. We have more words than any other thesaurus.
+  Parts of speech, roots, plurals, acronyms, abbreviations, sentiment, etc.
+---
+
 # NLP Thesaurus
 
 ## Version: MVP
