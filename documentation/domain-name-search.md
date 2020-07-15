@@ -29,6 +29,8 @@ Available now. Feel free to use in production. API spec may change, but will be 
 
 However, before using this at scale \(over 10,000 daily requests\), please let us know the approximate volume you intend to send, and from what geographic locations. Then we may scale up our servers, or add a server closer to your geographic region, to better accommodate your traffic.
 
+Released 07/20/2020
+
 ## Future version: v1
 
 Will be also available on RapidAPI, to reference and test, but will also be available directly from our domain \([https://api.nlp.studio](https://api.nlp.studio)\). The only difference will be authentication. Usage directly from https://api.nlp.studio will require that you sign a user agreement on our site, and make payment directly to us. We will take care of the authentication. We are not releasing this until we're sure we can do it securely.
