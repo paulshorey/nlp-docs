@@ -1,8 +1,7 @@
 ---
 description: >-
-  Bulk-search 100s of domain names for availability/expiration. Generate
-  hundreds of alternative names, many of which will be good and available. Most
-  relevant suggestions paired with related TLDs.
+  Programmatically pull data from our database, access our scripts and
+  algorithms...
 ---
 
 # GET data
