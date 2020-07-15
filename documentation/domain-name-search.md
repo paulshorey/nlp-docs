@@ -27,7 +27,7 @@ Use this page to test the API. It is fully-featured. You can set all options, an
 
 Available now. Feel free to use in production. API spec may change, but will be backward compatible.
 
-However, before using this at scale \(over 10,000 daily requests\), please let us know the approximate volume you intend to send, and from what geographic locations. Then we may spawn up some extra servers, or add a server closer to your geographic region, to accommodate your business.
+However, before using this at scale \(over 10,000 daily requests\), please let us know the approximate volume you intend to send, and from what geographic locations. Then we may scale up our servers, or add a server closer to your geographic region, to better accommodate your traffic.
 
 ## Future version: v1
 
