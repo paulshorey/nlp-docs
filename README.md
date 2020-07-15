@@ -13,11 +13,11 @@ We also make websites and apps:
 * [https://**nlpthesaurus.com**](https://nlpthesaurus.com) **** Thesaurus, word information, word sentiment
 * [https://**paulshorey.com**](https://paulshorey.com) See other projects, jobs, and ideas by Paul Shorey
 
-## Who we are
-
-A husband and wife team, based in Kansas City, MO \(USA\). 👨🏼‍💻👩🏽‍💼Combining our talents, we were able to make the world's best English language thesaurus. Paul built some advanced custom admin tools. Samira used them to comb through and edit thousands of words. 
+## Who we are**:**
 
 ![We met in Utah. Love those mountains. Miss those sunsets!](.gitbook/assets/dsc_0354-500-png.jpg)
+
+A husband and wife team, based in Kansas City, MO \(USA\). 👨🏼‍💻👩🏽‍💼Combining our talents, we were able to make the world's best English language thesaurus. Paul built some advanced custom admin tools. Samira used them to comb through and edit thousands of words. 
 
 **Paul Shorey** \([paulshorey.com](https://paulshorey.com)\)   
 has been making websites and apps for 12 years. JavaScript, UI design, front-end, back-end, systems and databases. Paul has a BFA in fine art, but has embraced software development as his art medium of choice. Developing is a creative process, and very powerful. When not coding, he enjoys building light fixtures, growing microgreens, and doing adventure sports.
