@@ -2,15 +2,15 @@
 
 **GET data about domain names and dictionary words:**
 
-* [Domain Name Suggestions](domain-name.md) 
+* [Domain Name Suggestions](../changelog/domain-name.md) 
   * most useful domain suggestions tool as of 2020! Better than Godaddy
   * generates hundreds of alternative phrases and pairs them with relevant TLDs
-* [Domain Name Availability](domain-name.md#domain-availability)
+* [Domain Name Availability](../changelog/domain-name.md#domain-availability)
   * check the availability of 2000+ supported TLDs
   * check the expiration date for 1000+ supported TLDs
-* [Synonyms](thesaurus.md#synonyms)
+* [Synonyms](../changelog/thesaurus.md#synonyms)
   * synonyms grouped by part of speech, or as a flat list by relevance
-* [Word Info](thesaurus.md#word-info)
+* [Word Info](../changelog/thesaurus.md#word-info)
   * root, plural, singular, proper, conjunction, acronyms, abbreviations, and sentiment
 
 **POST data to our server \(coming soon\):**

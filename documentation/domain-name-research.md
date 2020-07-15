@@ -1,9 +1,9 @@
-# Domain Name Suggestions
+# Domain Name Research
 
 ## Version: MVP
 
 Please refer to the RapidAPI page for documentation and examples, including all specs and options:  
-[https://rapidapi.com/nlp-studio/api/**domain-name-suggestions**](https://rapidapi.com/nlp-studio/api/domain-name-suggestions)\*\*\*\*
+[https://rapidapi.com/nlp-studio/api/**domain-name-research**](https://rapidapi.com/nlp-studio/api/domain-name-research)\*\*\*\*
 
 Use this page to test the API. It is fully-featured. You can set all options, and get full unabridged responses. Subscribe and pay for this API there. Use the provided code on your own website. Use the specs with your choice programming language or framework, or using Postman to test it. It works as if it was hosted on our own [https://api.nlp.studio](https://api.nlp.studio) \(see version 1 below\).
 
