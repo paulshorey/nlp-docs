@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bulk-search 100s of domain names for availability/expiration. Or, generate
+  Bulk-search 100s of domain names for availability/expiration. Generate
   hundreds of alternative names, some of which will be good and available. Most
   relevant suggestions paired with related TLDs.
 ---
