@@ -1,16 +1,27 @@
 ---
 description: >-
   Bulk-search 100s of domain names for availability/expiration. Generate
-  hundreds of alternative names, some of which will be good and available. Most
+  hundreds of alternative names, many of which will be good and available. Most
   relevant suggestions paired with related TLDs.
 ---
 
-# Domain Name Search
+# GET data
 
-## Version: MVP
+## Domain Name **Suggestions and Research** APIs
 
-Please refer to the RapidAPI page for documentation and examples, including all specs and options:  
+Bulk-search 100s of domain names for availability/expiration. Generate hundreds of alternative names, some of which will be good and available. Most relevant suggestions paired with related TLDs.
+
 [https://rapidapi.com/nlp-studio/api/**domain-name-search**](https://rapidapi.com/nlp-studio/api/domain-name-search)\*\*\*\*
+
+## **Thesaurus and Text Analysis APIs**
+
+Get info about a word. Any word. We have more words than any other thesaurus. Parts of speech, roots, plurals, acronyms, abbreviations, sentiment, etc.
+
+[https://rapidapi.com/nlp-studio/api/**nlp-thesaurus1**](https://rapidapi.com/nlp-studio/api/nlp-thesaurus1)\*\*\*\*
+
+## Current version: MVP
+
+Please refer to the RapidAPI page for documentation and examples, including all specs and options.
 
 Use this page to test the API. It is fully-featured. You can set all options, and get full unabridged responses. Subscribe and pay for this API there. Use the provided code on your own website. Use the specs with your choice programming language or framework, or using Postman to test it. It works as if it was hosted on our own [https://api.nlp.studio](https://api.nlp.studio) \(see version 1 below\).
 
