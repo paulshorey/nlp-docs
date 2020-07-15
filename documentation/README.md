@@ -15,11 +15,11 @@
 
 **POST data to our server \(coming soon\):**
 
-* ~~~~[~~Create an account~~](../changelog/account.md#create-a-new-account)~~~~
+* ~~~~[~~Create an account~~](account.md#create-a-new-account)~~~~
   * You'll get back a "site\_id" and a "secret\_token". The "site\_id" is an optional parameter in some of our APIs, to give you access to customized results. For example, you'll be able to specify which TLDs your registrar supports, and which you want to promote \(and how aggressively you'd like to promote them\).
-* ~~~~[~~Options~~](../changelog/account.md#options)~~~~
+* ~~~~[~~Options~~](account.md#options)~~~~
   * Configure options and preferences, like the minimum/maximum length of a suggested domain name.
-* ~~~~[~~TLDs~~](../changelog/account.md#tlds)~~~~
+* ~~~~[~~TLDs~~](account.md#tlds)~~~~
   * Configure which TLDs your site supports, and which you'd like to promote
 
 
