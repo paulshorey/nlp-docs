@@ -1,3 +1,9 @@
+---
+description: >-
+  Better domain tools, empowered by better linguistic tools. Get them both for
+  your site
+---
+
 # Documentation
 
 **GET data about domain names and dictionary words:**
