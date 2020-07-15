@@ -13,7 +13,7 @@ Create a new account
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+coming soon!
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -45,7 +45,7 @@ Options
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+coming soon!
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -77,7 +77,7 @@ Account info, options
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+coming soon!
 {% endapi-method-description %}
 
 {% api-method-spec %}

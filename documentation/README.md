@@ -22,9 +22,11 @@ description: >-
 
 * ~~~~[~~Create an account~~](account.md#create-a-new-account)~~~~
   * You'll get back a "site\_id" and a "secret\_token". The "site\_id" is an optional parameter in some of our APIs, to give you access to customized results. For example, you'll be able to specify which TLDs your registrar supports, and which you want to promote \(and how aggressively you'd like to promote them\).
-* ~~~~[~~Options~~](account.md#options)~~~~
+* ~~~~[~~Set options~~](account.md#options)~~~~
   * Configure options and preferences, like the minimum/maximum length of suggested domain names, sort options, preferences, etc.
   * Configure which TLDs your site supports, and which you'd like to promote
+* ~~~~[~~View what options you have set~~](account.md#account-info-options)~~~~
+  * View your account info, and all configured options
 
 
 
