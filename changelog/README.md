@@ -8,9 +8,11 @@ All changes are backward-compatible, meaning if you start using the API, you wil
 
 No changes to report yet.
 
-## Future versions
+## Future versions 
 
-The section [API Documentation](../documentation/) will be updated. You will be able to select and view documentation for each version of the API. Changes in each new version compared to the previous version will be explained here on this page.
+The section [API Documentation](../documentation/) will be updated. You will be able to read about each version of the API. You can always view each version of the API at [RapidAPI](https://rapidapi.com/user/nlp-studio). 
+
+Changes to each version will also be explained here on this page.
 
 
 
