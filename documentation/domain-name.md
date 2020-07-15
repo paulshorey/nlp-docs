@@ -1,5 +1,5 @@
 ---
-description: hostname =
+description: hostname = ?
 ---
 
 # Domain Name
@@ -10,7 +10,7 @@ Domain Suggestions
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Returns lists of domain suggestions. For example, for user entry \`{str:"goodstuff",tld:"info"}\` you may get suggestions \`{"domains": {"list1":\[\],"list2":\[\]}}\`. Also returns work-in-progress phrases used to come up with domain suggestions.
+Returns lists of domain suggestions. For input \`{str:"hello",tld:"com"}\` you may get suggestions \`{"original phrase":\["hello.fyi","hello.info"\], "word hacks":\["wassupo.com","shalomio.com"\], "": \["aloha.com","shalom.com","hi.co","howdy.io"\]}\`.
 {% endapi-method-description %}
 
 {% api-method-spec %}
