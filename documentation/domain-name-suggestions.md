@@ -11,5 +11,9 @@ Before using this at scale, please contact us to confirm that our servers are co
 
 ## Future version: v1
 
-Will be also available to reference and test on RapidAPI, but will also be available directly from our domain \([https://api.nlp.studio](https://api.nlp.studio)\). The only difference will be authentication. Usage directly from https://api.nlp.studio will require that you sign a contract and pay directly to us. This is why for now, for the MVP release, we are only using RapidAPI.
+Will be also available to reference and test on RapidAPI, but will also be available directly from our domain \([https://api.nlp.studio](https://api.nlp.studio)\). The only difference will be authentication. Usage directly from https://api.nlp.studio will require that you sign a user agreement on our site, and make payment directly to us, and that we manage the authentication. This is why for now, for the MVP release, we are only using RapidAPI.
+
+Expected release, 01/01/2021
+
+
 
