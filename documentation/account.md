@@ -7,7 +7,7 @@ description: >-
 
 # POST to your account
 
-{% api-method method="put" host="" path="/mvp/account" %}
+{% api-method method="put" host="https://{hostname}" path="/mvp/account" %}
 {% api-method-summary %}
 Create a new account
 {% endapi-method-summary %}
@@ -39,7 +39,7 @@ Create a new account
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="" path="/mvp/account/options" %}
+{% api-method method="post" host="https://{hostname}" path="/mvp/account/options" %}
 {% api-method-summary %}
 Options
 {% endapi-method-summary %}
@@ -71,7 +71,7 @@ NOTE: To edit which TLDs you support, including which TLDs you'd like to promote
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="" path="/mvp/account/tlds" %}
+{% api-method method="post" host="https://{hostname}" path="/mvp/account/tlds" %}
 {% api-method-summary %}
 TLDs
 {% endapi-method-summary %}
@@ -111,7 +111,7 @@ Your "site\_id" variable is public. It can be used from your client app, and see
 
 
 
-{% api-method method="get" host="" path="/mvp/account/my\_tlds" %}
+{% api-method method="get" host="https://{hostname}" path="/mvp/account/my\_tlds" %}
 {% api-method-summary %}
 My TLDs
 {% endapi-method-summary %}
