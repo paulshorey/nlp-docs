@@ -9,5 +9,5 @@
   * [GET data](documentation/domain-name-search.md)
   * [POST to your account](documentation/account.md)
 * [Changelog](changelog.md)
-* [Contact](contact-us.md)
+* [Contact](contact.md)
 
