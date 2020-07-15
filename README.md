@@ -11,7 +11,7 @@ We also make websites and apps:
 
 * [https://**nlp.domains**](https://nlp.domains) **** Find an available domain name for your business
 * [https://**nlpthesaurus.com**](https://nlpthesaurus.com) **** Thesaurus, word information, word sentiment
-* [https://**paulshorey.com**](https://paulshorey.com) See other projects, jobs, and inventions by Paul Shorey
+* [https://**paulshorey.com**](https://paulshorey.com) See other projects, jobs, and ideas by Paul Shorey
 
 ## Who we are
 
