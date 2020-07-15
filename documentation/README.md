@@ -3,8 +3,8 @@
 **GET data about domain names and dictionary words:**
 
 * [Domain Name Suggestions](../changelog/domain-name.md) 
-  * most useful domain suggestions tool as of 2020! Better than Godaddy
   * generates hundreds of alternative phrases and pairs them with relevant TLDs
+  * useful, relevant, and available!
 * [Domain Name Availability](../changelog/domain-name.md#domain-availability)
   * check the availability of 2000+ supported TLDs
   * check the expiration date for 1000+ supported TLDs
