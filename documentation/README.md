@@ -1,4 +1,4 @@
-# Documentation
+# API Documentation
 
 **GET data about domain names and dictionary words:**
 

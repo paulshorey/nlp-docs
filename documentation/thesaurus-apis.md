@@ -1,4 +1,4 @@
-# Thesaurus APIs
+# Thesaurus + Text Analysis
 
 {% api-method method="get" host="https://api.nlp.studio" path="/mvp/synonyms" %}
 {% api-method-summary %}
