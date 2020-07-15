@@ -25,7 +25,7 @@ has been making websites and apps for 12 years. JavaScript, UI design, front-end
 **Samira Ali**   
 has a Bachelors in Sociology. She has worked at several non-profits, and has started many of her own initiatives. She has worked in tech and medicine as well. She speaks several languages, and has been a part of a very diverse range of cultures. She is now starting medical school, to be a doctor, but will still be around to give guidance and direction in the areas of language, user perception, and design.
 
-We're both inspired by our upbringing and by the crazy adventure that is life. Paul immigrated from Russia, and Samira is a refugee from Africa. We're thankful for where we are now, and are moving toward securing a prosperous future through hard work and the pursuit of excellence. Looking forward to meeting you. [Let's get in touch]() \(virtually\).
+We're both inspired by our upbringing and by the crazy adventure that is life. Paul immigrated from Russia, and Samira is a refugee from Africa. We're thankful for where we are now, and are moving toward securing a prosperous future through hard work and the pursuit of excellence. Looking forward to meeting you. [Let's get in touch](contact-us.md) \(virtually\).
 
 ## Why NLP?
 
@@ -35,7 +35,7 @@ The reason this happened, is because in 2019, Paul set out to make a domain name
 
 It was a great learning experience, and now we have a database of 500,000 words, about 200,000 of which have good synonyms. As a reference, a native English speaker knows from 20,000 to 35,000 words, including slang. Many of the others are medical terms. We're currently brainstorming how this can be used in medical applications - perhaps to refine search results in sites like WebMD. 
 
-For now, our focus is domain names. Visit [nlp.domains](https://nlp.domains) or try [the API](https://rapidapi.com). Our program generates hundreds of name phrases, and pairs them with the most relevant TLDs \(extensions\). There are currently 1000+ new TLD extensions which people don't even know exist, so this service is very useful. We then check for the status \(availability\) of each domain name. No more typing in one domain name at a time, and hoping that it's available. Our app gives you hundreds of similar names. Some of them turn out to be available and pretty good!
+For now, our focus is domain names. Visit [nlp.domains](https://nlp.domains) or [try our API on RapidAPI](https://rapidapi.com/user/nlp-studio). Our program generates hundreds of name phrases, and pairs them with the most relevant TLDs \(extensions\). There are currently 1000+ new TLD extensions which people don't even know exist, so this service is very useful. We then check for the status \(availability\) of each domain name. No more typing in one domain name at a time, and hoping that it's available. Our app gives you hundreds of similar names. Some of them turn out to be available and pretty good!
 
 ## This is all a work in progress
 
