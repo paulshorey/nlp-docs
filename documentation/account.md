@@ -7,7 +7,7 @@ description: >-
 
 # POST to your account
 
-{% api-method method="put" host="https://{hostname}" path="/mvp/account" %}
+{% api-method method="put" host="https://api.nlp.studio" path="/mvp/account" %}
 {% api-method-summary %}
 Create a new account
 {% endapi-method-summary %}
@@ -39,13 +39,13 @@ Create a new account
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="post" host="https://{hostname}" path="/mvp/account" %}
+{% api-method method="post" host="https://api.nlp.studio" path="/mvp/account" %}
 {% api-method-summary %}
 Options
 {% endapi-method-summary %}
 
 {% api-method-description %}
-NOTE: To edit which TLDs you support, including which TLDs you'd like to promote, please refer to the /account/tlds API docs, below.
+
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -71,7 +71,7 @@ NOTE: To edit which TLDs you support, including which TLDs you'd like to promote
 {% endapi-method-spec %}
 {% endapi-method %}
 
-{% api-method method="get" host="https://{hostname}" path="/mvp/account/tlds" %}
+{% api-method method="get" host="https://api.nlp.studio" path="/mvp/account" %}
 {% api-method-summary %}
 Account info, options
 {% endapi-method-summary %}
