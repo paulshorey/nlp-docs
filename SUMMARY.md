@@ -8,12 +8,6 @@
 * [Documentation](documentation/README.md)
   * [GET data](documentation/domain-name-search.md)
   * [POST to your account](documentation/account.md)
-* [Changelog](changelog/README.md)
-  * [version: "mvp"](changelog/version-mvp/README.md)
-    * [NLP Thesaurus](changelog/version-mvp/nlp-thesaurus.md)
-  * [Text Analysis](changelog/text-analysis.md)
-  * [Domain Name Research](changelog/domain-name-research.md)
-  * [Thesaurus + Text Analysis](changelog/thesaurus.md)
-  * [Domain Name](changelog/domain-name.md)
+* [Changelog](changelog.md)
 * [Contact](contact-us.md)
 

@@ -11,12 +11,14 @@ description: >-
 
 Bulk-search 100s of domain names for availability/expiration. Generate hundreds of alternative names, some of which will be good and available. Most relevant suggestions paired with related TLDs.
 
+Please read the full documentation, and consume the API at RapidAPI:  
 [https://rapidapi.com/nlp-studio/api/**domain-name-search**](https://rapidapi.com/nlp-studio/api/domain-name-search)\*\*\*\*
 
 ## **Thesaurus and Text Analysis APIs**
 
 Get info about a word. Any word. We have more words than any other thesaurus. Parts of speech, roots, plurals, acronyms, abbreviations, sentiment, etc.
 
+Please read the full documentation, and consume the API at RapidAPI:  
 [https://rapidapi.com/nlp-studio/api/**nlp-thesaurus1**](https://rapidapi.com/nlp-studio/api/nlp-thesaurus1)\*\*\*\*
 
 ## Current version: MVP
