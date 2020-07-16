@@ -10,7 +10,7 @@ description: >-
 
 * \*\*\*\*[**Domain name suggestions** - on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
   * generates hundreds of alternative phrases and pairs them with relevant TLDs
-  * all of them useful, relevant, and available
+  * each of them useful, relevant, and available
 * \*\*\*\*[**Domain name availability** - on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
   * check the availability of 2000+ supported TLDs
   * check the expiration date for 1000+ supported TLDs
