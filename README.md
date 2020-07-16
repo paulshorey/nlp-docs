@@ -13,7 +13,7 @@ We also make websites and apps:
 * [https://**nlpthesaurus.com**](https://nlpthesaurus.com) **** Thesaurus, word information, word sentiment
 * [https://**paulshorey.com**](https://paulshorey.com) See other projects, jobs, and ideas by Paul Shorey
 
-## Who we are
+## Who we are**:**
 
 A husband and wife team, based in Kansas City, MO \(USA\). 👨🏼‍💻👩🏽‍💼Combining our talents, we were able to make the world's best English language thesaurus. Paul built some advanced custom admin tools. Samira used them to comb through and edit thousands of words. 
 
