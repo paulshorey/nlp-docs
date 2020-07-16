@@ -2,10 +2,7 @@
 
 We make tools for business. We analyze data and deliver it to your website via our APIs. Read about, subscribe to, test, and consume our APIs at:
 
-* **RapidAPI marketplace:** [https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio)  
-  [**Most accurate synonyms**](https://rapidapi.com/nlp-studio/api/nlp-thesaurus1), ****parts of speech, word info, and sentiment analysis.
-
-  \*\*\*\*[**Best domain name suggestions**](https://rapidapi.com/nlp-studio/api/domain-name-search1) - most relevant, short, memorable, and available.
+* **RapidAPI marketplace:** [https://rapidapi.com/user/nlp-studio](https://rapidapi.com/user/nlp-studio) [Best domain name suggestions](https://rapidapi.com/nlp-studio/api/domain-name-search1) - most relevant, short, memorable, and available. [Most accurate synonyms](https://rapidapi.com/nlp-studio/api/nlp-thesaurus1), ****parts of speech, word info, and sentiment analysis.
 
 We also make websites and apps:
 
