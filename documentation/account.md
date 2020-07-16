@@ -13,7 +13,7 @@ Create a new account
 {% endapi-method-summary %}
 
 {% api-method-description %}
-coming soon!
+coming soon! ...
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -109,7 +109,9 @@ Your "site\_id" variable is public. It can be used from your client app, and see
 {% endapi-method-spec %}
 {% endapi-method %}
 
+Notes
 
+For added security... With this, you can send this API request directly from your visitor's browser \(front-end code\), without having to waste time routing the user request through your own server. Configure your captcha verification to be very easy to pass if you don't want to annoy your user with that puzzple popup. This trick will work just as well with an easy captcha, because all we're trying to verify is that the request is coming from your own website, and not from a copy/pasted API code on some other website or bot. Configure your captcha version and secret key at: nlp.studio/documentation/account.
 
 
 
