@@ -1,15 +1,14 @@
 ---
 description: >-
-  Bulk-search 100s of domain names for availability/expiration. Generate
-  hundreds of alternative names, many of which will be good and available. Most
-  relevant suggestions paired with related TLDs.
+  Programmatically pull data from our database, access our scripts and
+  algorithms...
 ---
 
 # GET data
 
-## Domain Name **Suggestions and Research** APIs
+## Domain Name **Suggestions and Availability** APIs
 
-Bulk-search 100s of domain names for availability/expiration. Generate hundreds of alternative names, some of which will be good and available. Most relevant suggestions paired with related TLDs.
+Bulk-search 100s of domain names for availability/expiration. Generate hundreds of alternative names, many of which will be both good and available! Most relevant phrases paired with most relevant TLDs.
 
 Please read the full documentation, and consume the API at RapidAPI:  
 [https://rapidapi.com/nlp-studio/api/**domain-name-search**](https://rapidapi.com/nlp-studio/api/domain-name-search)\*\*\*\*
