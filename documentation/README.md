@@ -8,12 +8,14 @@ description: >-
 
 **GET data about domain names and dictionary words:**
 
-* \*\*\*\*[**Domain name suggestions** - on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
+* \*\*\*\*[**Domain name suggestions** - get it now on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
   * generates hundreds of alternative phrases and pairs them with relevant TLDs
   * each of them useful, relevant, and available
-* \*\*\*\*[**Domain name availability** - on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
+* \*\*\*\*[**Domain name availability** - get it now on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
   * check the availability of 2000+ supported TLDs
   * check the expiration date for 1000+ supported TLDs
+  * **Supported TLDs API** - coming very soon
+  * **Full WHOIS records** - coming very soon
 * ~~\*\*\*\*~~[~~**Synonyms and word info** - on RapidAPI~~](https://rapidapi.com/nlp-studio/api/nlp-thesaurus1) **\(COMING SOON\)**
   * synonyms grouped by part of speech, or as a flat list by relevance
   * root, plural, singular, proper, conjunction, acronyms, abbreviations
