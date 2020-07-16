@@ -14,9 +14,10 @@ description: >-
 * [Domain Name Availability - on RapidAPI](https://rapidapi.com/nlp-studio/api/domain-name-search1)
   * check the availability of 2000+ supported TLDs
   * check the expiration date for 1000+ supported TLDs
-* [Synonyms and word info - on RapidAPI](https://rapidapi.com/nlp-studio/api/nlp-thesaurus1)
+* ~~~~[~~Synonyms and word info - on RapidAPI~~](https://rapidapi.com/nlp-studio/api/nlp-thesaurus1) \(COMING SOON\)
   * synonyms grouped by part of speech, or as a flat list by relevance
-  * root, plural, singular, proper, conjunction, acronyms, abbreviations, sentiment
+  * root, plural, singular, proper, conjunction, acronyms, abbreviations
+  * sentiment analysis \(positive or negative connotation\)
 
 **POST data to our server: \(COMING SOON\)**
 
